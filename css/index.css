@@ -78,6 +78,7 @@ h2 {
     text-align: center;
     font-size: 2.5em;
     margin-bottom: 15px;
+    margin-top:19px
 }
 
 .container {
@@ -96,31 +97,6 @@ span {
     border-radius: 5px;
     margin-bottom: 4px;
     height: 32px;
-}
-
-.p100 {
-    background-color: #1abc9c;
-    width: 100%;
-}
-
-.p90 {
-    background-color: #1abc9c;
-    width: 90%;
-}
-
-.p80 {
-    background-color: #1abc9c;
-    width: 80%;
-}
-
-.p75 {
-    background-color: #1abc9c;
-    width: 75%;
-}
-
-.p50 {
-    background-color: #1abc9c;
-    width: 50%;
 }
 
 a {
